@@ -73,6 +73,26 @@ allitems[{name="vase", barcode="0223ab", price=200,discount=0.2}] payment=any
 allitems[{name="vase", barcode="223", price=200,discount=-1}] payment=any
 Со ова се опфаќаат следните тест примери: 1-3, 3-4.1, 4.1-4.2, 4.2-23, 23-25, 25-26, 26-27, 5-6, 6-8, 8-9,10 , 9,10-11.1, 11.1-11.2, 11.2-12, 12-13, 13-11.3, 11.3-11.2, 11.2-15, 15-17, 17-18, 18-21, 21-4.3, 4.3-4.2
 
+<h4>Multiple Condition</h4>
+Најпрво ги запишав сите можни случаи и одбрав тест примери за истите. 
+TTN
+getPrice=350
+getDiscount=0.2
+getBarcode=1245
+
+TTT
+getPrice=350
+getDiscount=0.2
+getBarcode=01245
+
+
+NXX
+getPrice=200
+
+TNX
+getPrice=350
+getDiscount=0
+Истото го пробав и во Gradle, и сите тест примери ми поминаа. 
 
 
 
