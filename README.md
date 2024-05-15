@@ -1,4 +1,4 @@
-<h2>Љубица Јованоска</h2>
+<h2>Љубица Јованоска (223005)</h2>
 <h4>2. Control Flow Graph</h4>
 
 ![Untitled Diagram](https://github.com/jovanoskalj/jovanoskalj-SI_2024_lab2_223005/assets/138476065/4a1cd023-cd08-49a7-8e75-8f76db6a340d)
