@@ -1,6 +1,7 @@
 <h2>Љубица Јованоска</h2>
 <h4>2. Control Flow Graph</h4>
-![Untitled Diagram](https://github.com/jovanoskalj/jovanoskalj-SI_2024_lab2_223005/assets/138476065/c36e1adb-c1dc-436a-888d-0c89e4287a9a)
+
+![Untitled Diagram](https://github.com/jovanoskalj/jovanoskalj-SI_2024_lab2_223005/assets/138476065/4a1cd023-cd08-49a7-8e75-8f76db6a340d)
 
 <h4> 3. Цикломатска комплексност</h4>
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10.
